@@ -1,6 +1,12 @@
 # Sora Extend
 
-[![Follow on X](https://img.shields.io/twitter/follow/mattshumer_?style=social)](https://x.com/mattshumer_) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mshumer/sora-extend/blob/main/Sora_Extend.ipynb)
+This is a fork of a fork. 
+
+Original https://github.com/mshumer/sora-extend
+
+Fork https://github.com/stevemoraco/sora-extend
+
+**Goal of this fork is to use OpenRouter and Fal.ai as the API endpoints**
 
 **Seamlessly generate extended Sora 2 videos beyond OpenAI’s 12-second limit.**
 

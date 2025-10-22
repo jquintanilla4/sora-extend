@@ -127,7 +127,7 @@ RuntimeError: FFmpeg not found and MoviePy unavailable
 **Solution**: Install ffmpeg on your system:
 - macOS: `brew install ffmpeg`
 - Ubuntu: `apt-get install ffmpeg`
-- Or let the script install `imageio-ffmpeg` automatically
+- Or let the requirements.txt install `imageio-ffmpeg` automatically
 
 ### Video Concatenation Fails
 **Solution**: Ensure all segments were generated successfully and are valid MP4 files

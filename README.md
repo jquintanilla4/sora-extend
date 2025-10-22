@@ -6,7 +6,7 @@ Original https://github.com/mshumer/sora-extend
 
 Fork https://github.com/stevemoraco/sora-extend
 
-**Goal of this fork is to use OpenRouter and Fal.ai as the API endpoints on both the Notebook and the new TUI app**
+**Goal of this fork is to use OpenRouter and Fal.ai as the API endpoints on both the Notebook and the new simple TUI application**
 
 **Seamlessly generate extended Sora 2 videos beyond OpenAI’s 12-second limit.**
 

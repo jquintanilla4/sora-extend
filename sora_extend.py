@@ -28,7 +28,7 @@ console = Console()
 
 # PLANNER FUNCTION
 
-def plan_prompts_with_ai(client, planner_model, base_prompt, seconds_per_segment, num_generations):
+def plan_prompts(client, planner_model, base_prompt, seconds_per_segment, num_generations):
     """
     Calls OpenRouter API (via OpenAI SDK) to produce a JSON object with segment prompts.
     
@@ -473,7 +473,7 @@ def main():
     print(f"Planner model: {config['planner_model']}")
     
     # Step 2: Plan prompts with AI
-    segments_plan = plan_prompts_with_ai(
+    segments_plan = plan_prompts(
         client=client,
         planner_model=config["planner_model"],
         base_prompt=config["prompt"],

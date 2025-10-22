@@ -1,0 +1,8 @@
+moviepy>=2.0.0
+imageio[ffmpeg]
+openai
+requests
+opencv-python-headless
+fal-client
+python-dotenv
+rich>=13.7.0
